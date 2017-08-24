@@ -52,3 +52,7 @@ app/proguard-rules.pro
 ```
 app/build/outputs/apk
 ```
+
+源代码github地址：
+
+https://github.com/YoungBear/BaiduMapsApiASDemo
