@@ -140,6 +140,11 @@ public class MapControlDemo extends Activity {
                 updateMapState();
             }
 
+            @Override
+            public void onMapStatusChangeStart(MapStatus status, int reason) {
+
+            }
+
             public void onMapStatusChangeFinish(MapStatus status) {
                 updateMapState();
             }

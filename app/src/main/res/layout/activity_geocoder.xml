@@ -40,12 +40,14 @@
             android:id="@+id/lat"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:inputType="numberDecimal|numberSigned"
             android:text="40.056885" />
 
         <EditText
             android:id="@+id/lon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:inputType="numberDecimal|numberSigned"
             android:text="116.308142" />
 
         <Button
