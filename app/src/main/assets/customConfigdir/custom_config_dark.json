@@ -83,35 +83,64 @@
 "color": "#5f5e5c"
 
 }
-},
-{
-"featureType": "districtlabel",
-"elementType": "labels.text.stroke",
-"stylers": {
-"color": "#313131"
-}
-},
-{
-"featureType": "districtlabel",
-"elementType": "labels.text.fill",
-"stylers": {
-"color": "#8b8787"
-}
-},
-{
-"featureType": "poilabel",
-"elementType": "labels.text.stroke",
-"stylers": {
-"color": "#313131"
-}
-},
-{
-"featureType": "poilabel",
-"elementType": "labels.text.fill",
-"stylers": {
-"color": "#8b8787"
-}
-},
+},
+
+{
+
+"featureType": "districtlabel",
+
+"elementType": "labels.text.stroke",
+
+"stylers": {
+
+"color": "#313131"
+
+}
+
+},
+
+{
+
+"featureType": "districtlabel",
+
+"elementType": "labels.text.fill",
+
+"stylers": {
+
+"color": "#8b8787"
+
+}
+
+},
+
+{
+
+"featureType": "poilabel",
+
+"elementType": "labels.text.stroke",
+
+"stylers": {
+
+"color": "#313131"
+
+}
+
+},
+
+{
+
+"featureType": "poilabel",
+
+"elementType": "labels.text.fill",
+
+"stylers": {
+
+"color": "#8b8787"
+
+}
+
+}
+,
 {
 "featureType": "highway",
 "elementType": "labels.text.stroke",
