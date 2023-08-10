@@ -52,6 +52,6 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:22.2.1'
+    implementation(name: 'BaiduLBS_Android', ext: 'jar')
+    implementation 'com.android.support:appcompat-v7:22.2.1'
 }

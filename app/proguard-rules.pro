@@ -37,7 +37,7 @@
 -keepattributes *Annotation*
 
 #忽略警告
--ignorewarning
+#-ignorewarning
 
 ##记录生成的日志数据,gradle build时在本项目根目录输出##
 #apk 包内所有 class 的内部结构
